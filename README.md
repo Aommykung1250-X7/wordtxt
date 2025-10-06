@@ -1,16 +1,16 @@
 **🕐 0:00–0:40 | Introduction**
 
-(A หันไปคุยกับ B): Hey! Have you noticed the air pollution lately? It looks so hazy, right?
+(A): Hey! Have you noticed the air pollution lately? It looks so hazy, right?
 
-(B ตอบกลับ A ): Yeah, I know! The sky looks kind of foggy every morning. It’s not just fog — it’s PM2.5 dust, you know.
+(B): Yeah, I know! The sky looks kind of foggy every morning. It’s not just fog — it’s PM2.5 dust, you know.
 
-(A ตอบ B): Exactly. That’s what we’re going to talk about today. PM2.5 is one of the biggest environmental problems right now, not only in Thailand but also around the world. 
+(A): Exactly. That’s what we’re going to talk about today. PM2.5 is one of the biggest environmental problems right now, not only in Thailand but also around the world. 
 
-(B ตอบ A): Right. It’s really serious because it affects both our health and our daily life. 
+(B): Right. It’s really serious because it affects both our health and our daily life. 
 
 **🕐 0:40–1:20 | What is PM2.5?**
 
-(A หันไปถาม C): So, what exactly is PM2.5? 
+(A): So, what exactly is PM2.5? 
 
 (C): Well, it’s basically very tiny dust particles — smaller than 2.5 microns. They’re super small, like invisible to our eyes.
 
@@ -22,7 +22,7 @@
 
 **🕐 1:20–2:00 | Causes**
 
-(B หันไปถาม A): So, what causes all this dust?
+(B): So, what causes all this dust?
 
 (A): Hmm… there are a few main causes. First, open burning — people burn waste or agricultural land. 
 
